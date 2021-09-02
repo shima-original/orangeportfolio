@@ -120,9 +120,8 @@ footer{
     width: 100%;
     text-align: center;
     padding-top: 3%;
-    padding-bottom: 3%;
-    margin-right: 0;
-    margin-left: 0;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
 }
 footer button{
     border:1px  solid #fff;
