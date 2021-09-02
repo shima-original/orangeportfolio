@@ -101,7 +101,7 @@ h3 {
     color: #888;
 }
 .portfolio, .photos{
-    margin: 4em 0;
+   
     position: relative;
 }
 .portfolio h1, .photos h1{
@@ -129,6 +129,7 @@ footer button{
     color: #F97300;
     padding: 2%;
     font-size: 2em;
+    border-radius: 5%
 }
 footer h3{
     text-align: center;
