@@ -101,7 +101,7 @@ h3 {
     color: #888;
 }
 .portfolio, .photos{
-   
+    margin: 4em 0;
     position: relative;
 }
 .portfolio h1, .photos h1{
