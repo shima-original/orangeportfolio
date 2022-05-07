@@ -4,18 +4,18 @@ html, h1, h2, h3, h4, h5, h6, a{
     font-family: Raleway;
 }
 
-.navbar, footer{
+.navbar, .contact {
     background: #F97300;
 }
 
-.nav-link, .navbar-brand, footer a {
+.nav-link, .navbar-brand, .contact a {
     color: #f4f4f4;
     cursor: pointer;
 }
-.nav-link, footer a{
+.nav-link, .contact a{
     margin-right: 1em !important;
 }
-.nav-link:hover, footer a:hover{
+.nav-link:hover, .contact a:hover{
     background: #f4f4f4;
     color: #F97300;
 }
@@ -121,7 +121,6 @@ footer{
     margin-right: 0 !important;
     margin-left: 0 !important;
     margin-bottom: 0;
-    background: rgba(32, 30, 30, 0.6);
 }
 
 
