@@ -62,9 +62,9 @@ h3 {
 .description p{
     color:rgba(32, 30, 30, 0.6);
 }
-.description button{
+footer button{
     border:1px  solid #F97300;
-    background:#F97300;
+    background:#10828C;
     color:#fff;
 }
 .about{
@@ -125,23 +125,8 @@ footer{
     margin-left: 0 !important;
     margin-bottom: 0;
 }
-footer button{
-    border:1px  solid #fff;
-    background: #fff;
-    color: #F97300;
-    padding: 2%;
-    font-size: 2em;
-    border-radius: 10%
-}
-footer h3{
-    text-align: center;
-    color: #fff;
-    padding-bottom: 3%;
-}
-.img-fluid{
-    width: 100%;
-    object-fit: cover;
-}
+
+
 
 
 
