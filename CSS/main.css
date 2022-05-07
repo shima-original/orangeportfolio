@@ -4,9 +4,10 @@ html, h1, h2, h3, h4, h5, h6, a{
     font-family: Raleway;
 }
 
-.navbar, footer {
+.navbar{
     background: #F97300;
 }
+
 .nav-link, .navbar-brand, footer a {
     color: #f4f4f4;
     cursor: pointer;
@@ -64,7 +65,7 @@ h3 {
 }
 .contact button{
     border:1px  solid #F97300;
-    background:rgba(32, 30, 30, 0.6);
+    background:#F97300;
     color:#fff;
 }
 .about{
@@ -124,6 +125,7 @@ footer{
     margin-right: 0 !important;
     margin-left: 0 !important;
     margin-bottom: 0;
+    background: rgba(32, 30, 30, 0.6);
 }
 
 
