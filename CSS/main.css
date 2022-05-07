@@ -15,7 +15,7 @@ html, h1, h2, h3, h4, h5, h6, a{
 .nav-link, footer a{
     margin-right: 1em !important;
 }
-.nav-link:hover, footer a{
+.nav-link:hover, footer a:hover{
     background: #f4f4f4;
     color: #F97300;
 }
