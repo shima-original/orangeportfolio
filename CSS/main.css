@@ -128,7 +128,9 @@ footer{
     color: #f4f4f4;
 }
 
-
+footer button {
+    margin: 3%;
+}
 
 
 
