@@ -59,10 +59,10 @@ h3 {
 .description{
     z-index: 3;
     position: relative;
+    background-color:rgba(244, 244, 244, 0.6);
 }
 .description p{
     color:rgba(32, 30, 30, 0.6);
-    background-color:rgba(244, 244, 244, 0.5);
 }
 
 .about{
