@@ -63,7 +63,7 @@ h3 {
 .description p{
     color:rgba(32, 30, 30, 0.6);
 }
-.description p, description h3{
+.description p, .description h3{
     background-color:rgba(244, 244, 244, 0.6);  
 }
 
