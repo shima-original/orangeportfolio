@@ -61,10 +61,10 @@ h3 {
     position: relative;
 }
 .description p{
-    color:rgba(32, 30, 30, 0.6);
+    color:rgba(32, 30, 30, 0.8);
 }
 .description p, .description h3{
-    background-color:rgba(244, 244, 244, 0.6);  
+    background-color:rgba(244, 244, 244, 0.7);  
 }
 
 .about{
