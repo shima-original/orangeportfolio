@@ -129,10 +129,12 @@ footer{
 }
 
 footer button {
-    margin: 3%;
+    margin-left, margin-right: 3%;
 }
 
-
+footer button a:hover{
+    text-decoration: none;
+}
 
 
 
