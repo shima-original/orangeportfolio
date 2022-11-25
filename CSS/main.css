@@ -60,11 +60,9 @@ h3 {
     z-index: 3;
     position: relative;
 }
-.description p{
-    color:rgba(32, 30, 30, 0.8);
-}
+
 .description p, .description h3{
-    background-color:rgba(244, 244, 244, 0.7);  
+    background-color:rgba(244, 244, 244, 0.9);  
 }
 
 .about{
